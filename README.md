@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/zanguraa](https://github.com/zanguraa)
 
+
+
 - 💬 Ask me about **Javascript, .Net, ASP.NET, React, React Native, Typescript, Svelte js, MS SQL etc**
 
 - 📫 How to reach me **zanguraa@gmail.com**
